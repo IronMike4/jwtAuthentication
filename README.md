@@ -19,13 +19,12 @@ This is a simple Express application that demonstrates how to implement JSON Web
 
    ```bash
    git clone https://github.com/IronMike4/jwtAuthentication.git
-   cd carInventory
    ```
 
 2. **Navigate to the project directory:**
 
    ```bash
-   cd my-express-app
+   cd jwtAuthentication
    ```
 
 3. **Install the necessary dependencies:**
